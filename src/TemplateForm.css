@@ -1,0 +1,21 @@
+.beaut{
+
+    color: rgb(255, 0, 21);
+}
+.inputfield{
+
+    margin-bottom: 80%;
+    background-color: rgb(226, 208, 43);
+}
+
+.grad2{
+
+    color: rgb(255, 254, 254);
+    text-align: center;
+}
+
+.grad1 {
+    height: 55px;
+    
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  }
